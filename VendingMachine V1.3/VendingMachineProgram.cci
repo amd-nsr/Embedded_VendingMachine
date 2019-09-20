@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:4D7B8084
+NODE:I LEVEL:0 LINE:8 "C:\cvavreval\inc\io.h"
+NODE:I LEVEL:0 LINE:9 "C:\cvavreval\inc\alcd.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavreval\inc\interrupt.h"
+NODE:I LEVEL:0 LINE:11 "C:\cvavreval\inc\delay.h"
+NODE:V LEVEL:0 LINE:14 "price -> R5"
+NODE:V LEVEL:0 LINE:15 "counter -> R4"
+NODE:V LEVEL:0 LINE:17 "itemNumber -> R7"
+NODE:F LEVEL:0 LINE:22 "external_int0(void)"
+NODE:F LEVEL:0 LINE:64 "main(void)"
+NODE:F LEVEL:0 LINE:126 "get_key(void)"
+NODE:F LEVEL:0 LINE:214 "EE_WriteC(unsigned char adr,unsigned char data)"
+NODE:F LEVEL:0 LINE:223 "EE_ReadC(unsigned char adr)"
